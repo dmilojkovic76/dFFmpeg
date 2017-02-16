@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1447509027"/>
+  <Params Value=" -MObjFPC -Scghi -O1  -k-framework -kCarbon -k-framework -kOpenGL -k-dylib_file -k/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib:/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib -l -vewnhibq &quot;-Fi/Volumes/STORAGE/Work/Programiranje/Lazarus Projekti/dFFmpeg/lib/i386-darwin&quot; -Fu/Developer/lazarus/components/rtticontrols/lib/i386-darwin/carbon -Fu/Developer/lazarus/components/ideintf/units/i386-darwin/carbon -Fu/Developer/lazarus/components/lazcontrols/lib/i386-darwin/carbon -Fu/Developer/lazarus/lcl/units/i386-darwin/carbon -Fu/Developer/lazarus/lcl/units/i386-darwin -Fu/Developer/lazarus/components/lazutils/lib/i386-darwin -Fu/Developer/lazarus/lcl/interfaces/carbon/pascocoa/lib/i386-darwin -Fu/Developer/lazarus/packager/units/i386-darwin &quot;-Fu/Volumes/STORAGE/Work/Programiranje/Lazarus Projekti/dFFmpeg/&quot; &quot;-FU/Volumes/STORAGE/Work/Programiranje/Lazarus Projekti/dFFmpeg/lib/i386-darwin/&quot; -dLCL -dLCLcarbon dFFmpeg.lpr"/>
+</CONFIG>
